@@ -1,0 +1,6 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[120.09334167012031,23.235718819048824],[120.10592096926563,23.095917062638414]]},"properties":{"id":1,"name":"郭宗琳虱目魚加工廠--->黃大哥膠原蛋白初步加工 每年約200噸"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[120.10592096926563,23.095917062638414],[120.1510920889238,23.148235511356418]]},"properties":{"id":2,"name":"黃大哥膠原蛋白--->太皓生技加工包裝"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[120.10592096926563,23.095917062638414],[120.40267807183007,23.727169165203208]]},"properties":{"id":3,"name":"黃大哥膠原蛋白--->達驛生技水解及加工包裝"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[120.43126738806941,23.480157472895243],[120.11392597781268,23.14966497716839]]},"properties":{"id":4,"name":"蘇先生虱目魚加工廠--->安妥工業股份有限公司 植物液態肥製作"}}
+]}

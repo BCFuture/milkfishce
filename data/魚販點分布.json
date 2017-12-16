@@ -1,0 +1,6 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.12125199009891,23.04390237540548]},"properties":{"id":1,"name":"大豐虱目魚批發商_台南廠_秀容姨_年收150萬斤"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.13383128924421,23.155400708738934]},"properties":{"id":2,"name":"顏國福__年收5-6萬斤"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.07493729779117,23.163977503610738]},"properties":{"id":3,"name":"莊明榮__年收2-3萬斤"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.30393772086835,22.58161313181524]},"properties":{"id":4,"name":"大豐虱目魚批發商_高雄廠_年收150萬斤"}}
+]}

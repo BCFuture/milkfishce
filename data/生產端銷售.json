@@ -1,0 +1,11 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[120.03820002642352,23.098061261356378],[120.18028892813308,23.171821697253893]]},"properties":{"id":1,"name":"王啟森--->周先生 每年2.5萬斤"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[120.07164952642357,23.111784133151264],[120.07479435120989,23.16353079554448]]},"properties":{"id":2,"name":"洪志聰--->莊明榮 每年2萬斤"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[120.07164952642357,23.111784133151264],[120.12062659880611,23.044608174150113]]},"properties":{"id":3,"name":"洪志聰--->大豐虱目魚批發 每年15萬斤"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[120.07164952642357,23.111784133151264],[120.13349179111383,23.15539177457759]]},"properties":{"id":4,"name":"洪志聰--->顏國福 每年5-6萬斤"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[120.12791038775798,23.154126508063925],[120.12062659880611,23.044608174150113]]},"properties":{"id":5,"name":"黃諒諒--->大豐虱目魚批發 每年6萬斤"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[120.12791038775798,23.154126508063925],[120.29629007877438,22.594460455800277]]},"properties":{"id":6,"name":"黃諒諒--->外銷加工廠 每年24萬斤"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[120.12832784586823,23.11878851562991],[120.09316298689383,23.23514703272405]]},"properties":{"id":7,"name":"金宗興--->郭宗琳虱目魚加工廠 每年5萬斤"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[120.13079367439387,23.155561523642774],[120.30890511456498,22.58838522609942]]},"properties":{"id":8,"name":"陳佐瑋--->外銷加工廠 每年8-9萬斤"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[120.13222314020582,23.158384718621406],[120.42926613593264,23.479585686570474]]},"properties":{"id":9,"name":"王先生--->蘇先生虱目魚加工廠 每年4萬斤"}}
+]}

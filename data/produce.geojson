@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "王啟森_第六產銷班_工作魚", "產量": 30000 }, "geometry": { "type": "Point", "coordinates": [ 120.032779437971556, 23.073862002721956 ] } },
+{ "type": "Feature", "properties": { "id": 2, "name": "郭永慶_第九產銷班_工作魚", "產量": 40000 }, "geometry": { "type": "Point", "coordinates": [ 120.054507318313469, 23.084440049730514 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "洪志聰_第二產銷班副班長", "產量": 600000 }, "geometry": { "type": "Point", "coordinates": [ 120.072232694381867, 23.111885793320287 ] } },
+{ "type": "Feature", "properties": { "id": 4, "name": "金宗興_第二產銷班班長", "產量": 300000 }, "geometry": { "type": "Point", "coordinates": [ 120.12855364737338, 23.118461336055336 ] } },
+{ "type": "Feature", "properties": { "id": 5, "name": "陳佐瑋_第十三產銷班", "產量": 90000 }, "geometry": { "type": "Point", "coordinates": [ 120.130769319381926, 23.155627447166488 ] } },
+{ "type": "Feature", "properties": { "id": 6, "name": "黃諒諒_第十二產銷班", "產量": 300000 }, "geometry": { "type": "Point", "coordinates": [ 120.127910387757993, 23.154483874516913 ] } },
+{ "type": "Feature", "properties": { "id": 7, "name": "王先生_佳里區第二產銷班", "產量": 40000 }, "geometry": { "type": "Point", "coordinates": [ 120.132341731775085, 23.158200485628029 ] } }
+]
+}

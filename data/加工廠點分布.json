@@ -1,0 +1,7 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.18057482129554,23.17132138421972]},"properties":{"id":1,"name":"周先生_家庭代工_年處理4萬斤"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.09452097941512,23.235933238920644]},"properties":{"id":2,"name":"郭宗琳_虱目魚加工廠__年處理500-600萬斤"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.4284441930907,23.479514213279888]},"properties":{"id":3,"name":"蘇先生_虱目魚加工廠__年處理4萬斤"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.29750512471449,22.5941030893473]},"properties":{"id":4,"name":"外銷加工廠_年處理24萬斤"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.30894085121022,22.588385226099433]},"properties":{"id":5,"name":"外銷加工廠_年處理8-9萬斤"}}
+]}

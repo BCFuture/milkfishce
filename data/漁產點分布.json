@@ -1,0 +1,9 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.03881761612014,23.097178659880374]},"properties":{"id":1,"name":"王啟森_第六產銷班_工作魚_年產2-3萬","ç¢é":30000}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.05487889850724,23.100139312916856]},"properties":{"id":2,"name":"郭永慶_第九產銷班_工作魚_年產3-4萬","ç¢é":40000}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.07223269438187,23.111885793320287]},"properties":{"id":3,"name":"洪志聰_第二產銷班副班長_年產60萬","ç¢é":600000}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.12855364737338,23.118461336055336]},"properties":{"id":4,"name":"金宗興_第二產銷班班長_年產30萬","ç¢é":300000}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.13076931938193,23.155627447166488]},"properties":{"id":5,"name":"陳佐瑋_第十三產銷班_年產8-9萬","ç¢é":90000}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.12791038775799,23.154483874516913]},"properties":{"id":6,"name":"黃諒諒_第十二產銷班_年產30萬","ç¢é":300000}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.13234173177509,23.15820048562803]},"properties":{"id":7,"name":"王先生_佳里區第二產銷班_年產4萬","ç¢é":40000}}
+]}

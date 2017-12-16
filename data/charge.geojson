@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "charge",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "field_1": "社子清潔分隊(葫蘆)", "field_2": "士林區", "field_3": "臺北市士林區中正路臨707-1號", "field_4": 25.08579, "field_5": 121.50642 }, "geometry": { "type": "Point", "coordinates": [ 13526032.802513632923365, 2886285.677146279253066 ] } },
+{ "type": "Feature", "properties": { "field_1": "勝聯車業有限公司", "field_2": "士林區", "field_3": "臺北市士林區承德路7段84號", "field_4": 25.11165, "field_5": 121.510589 }, "geometry": { "type": "Point", "coordinates": [ 13526496.89347074739635, 2889464.554273722693324 ] } },
+{ "type": "Feature", "properties": { "field_1": "文昌國小地下停車場", "field_2": "士林區", "field_3": "臺北市士林區文林路615巷20號", "field_4": 25.099409, "field_5": 121.5212957 }, "geometry": { "type": "Point", "coordinates": [ 13527688.757862826809287, 2887959.72824186226353 ] } },
+{ "type": "Feature", "properties": { "field_1": "勝瀧車業行", "field_2": "士林區", "field_3": "臺北市士林區文林路687號1樓", "field_4": 25.101139, "field_5": 121.521876 }, "geometry": { "type": "Point", "coordinates": [ 13527753.356563333421946, 2888172.393641453236341 ] } },
+{ "type": "Feature", "properties": { "field_1": "台益機車有限公司", "field_2": "士林區", "field_3": "臺北市士林區延平北路5段129號", "field_4": 25.08192, "field_5": 121.51023 }, "geometry": { "type": "Point", "coordinates": [ 13526456.92977355606854, 2885810.009710065089166 ] } },
+{ "type": "Feature", "properties": { "field_1": "社子國小地下停車場", "field_2": "士林區", "field_3": "臺北市士林區延平北路6段308號", "field_4": 25.089812, "field_5": 121.502949 }, "geometry": { "type": "Point", "coordinates": [ 13525646.41256108880043, 2886780.043066203128546 ] } },
+{ "type": "Feature", "properties": { "field_1": "中華汽車社子服務廠", "field_2": "士林區", "field_3": "臺北市士林區延平北路6段434號", "field_4": 25.09228, "field_5": 121.499791 }, "geometry": { "type": "Point", "coordinates": [ 13525294.865609161555767, 2887083.406428812537342 ] } },
+{ "type": "Feature", "properties": { "field_1": "新鎰昌機車行", "field_2": "士林區", "field_3": "臺北市士林區至誠路1段2-6號", "field_4": 25.101216, "field_5": 121.5370693 }, "geometry": { "type": "Point", "coordinates": [ 13529444.666982801631093, 2888181.859165576752275 ] } },
+{ "type": "Feature", "properties": { "field_1": "捷運淡水線芝山站", "field_2": "士林區", "field_3": "臺北市士林區芝山站", "field_4": 25.10306, "field_5": 121.522514 }, "geometry": { "type": "Point", "coordinates": [ 13527824.378398457542062, 2888408.541809211019427 ] } },
+{ "type": "Feature", "properties": { "field_1": "光盛車業股份有限公司", "field_2": "士林區", "field_3": "臺北市士林區重慶北路4段156號", "field_4": 25.08372, "field_5": 121.512246 }, "geometry": { "type": "Point", "coordinates": [ 13526681.3498669937253, 2886031.248507337644696 ] } }
+]
+}

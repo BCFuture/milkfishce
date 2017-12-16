@@ -1,0 +1,22 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.03881761612014,23.097178659880374]},"properties":{"id":1,"name":"王啟森_第六產銷班_工作魚_年產2-3萬"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.05487889850724,23.100139312916856]},"properties":{"id":2,"name":"郭永慶_第九產銷班_工作魚_年產3-4萬"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.07223269438187,23.111885793320287]},"properties":{"id":3,"name":"洪志聰_第二產銷班副班長_年產60萬"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.12855364737338,23.118461336055336]},"properties":{"id":4,"name":"金宗興_第二產銷班班長_年產30萬"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.13076931938193,23.155627447166488]},"properties":{"id":5,"name":"陳佐瑋_第十三產銷班_年產8-9萬"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.12791038775799,23.154483874516913]},"properties":{"id":6,"name":"黃諒諒_第十二產銷班_年產30萬"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.13234173177509,23.15820048562803]},"properties":{"id":7,"name":"王先生_佳里區第二產銷班_年產4萬"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.12125199009891,23.04390237540548]},"properties":{"id":8,"name":"大豐虱目魚批發商_台南廠_秀容姨_年"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.13383128924421,23.155400708738934]},"properties":{"id":9,"name":"顏國福__年收5-6萬斤"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.07493729779117,23.163977503610738]},"properties":{"id":10,"name":"莊明榮__年收2-3萬斤"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.30393772086835,22.58161313181524]},"properties":{"id":11,"name":"大豐虱目魚批發商_高雄廠_年收150萬"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.18057482129554,23.17132138421972]},"properties":{"id":12,"name":"周先生_家庭代工_年處理4萬斤"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.09452097941512,23.235933238920644]},"properties":{"id":13,"name":"郭宗琳_虱目魚加工廠__年處理500-600"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.4284441930907,23.479514213279888]},"properties":{"id":14,"name":"蘇先生_虱目魚加工廠__年處理4萬斤"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.29750512471449,22.5941030893473]},"properties":{"id":15,"name":"外銷加工廠_年處理24萬斤"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.30894085121022,22.588385226099433]},"properties":{"id":16,"name":"外銷加工廠_年處理8-9萬斤"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.10570654939372,23.095845589347846]},"properties":{"id":17,"name":"黃大哥_膠原蛋白加工廠_目前年產約2"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.40271380847523,23.726168539134854]},"properties":{"id":18,"name":"達驛生技股份有限公司_膠原蛋白加"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.15155666531257,23.14866435110003]},"properties":{"id":19,"name":"太皓生技股份有限公司_膠原蛋白加"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.11453350078261,23.148950244262423]},"properties":{"id":20,"name":"安妥工業股份有限公司_肥料廠"}}
+]}

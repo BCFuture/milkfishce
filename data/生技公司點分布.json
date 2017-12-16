@@ -1,0 +1,6 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.10570654939372,23.095845589347846]},"properties":{"id":1,"name":"黃大哥_膠原蛋白加工廠_目前年產約200噸"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.40271380847523,23.726168539134854]},"properties":{"id":2,"name":"達驛生技股份有限公司_膠原蛋白加工"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.15155666531257,23.14866435110003]},"properties":{"id":3,"name":"太皓生技股份有限公司_膠原蛋白加工"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.11453350078261,23.148950244262423]},"properties":{"id":4,"name":"安妥工業股份有限公司_肥料廠"}}
+]}
