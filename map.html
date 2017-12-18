@@ -56,9 +56,10 @@
 	<option value="5">資源點分布</option>
       </select>
       <select id="geojsonLayer2">
-	<option value="6">生產端銷售</option>
-        <option value="7">魚鱗流向(現有循環)</option>
-        <option value="8">魚鱗流向(未有循環)</option>
+	<option value="0">無</option>
+	<option value="1">生產端銷售</option>
+        <option value="2">魚鱗流向(現有循環)</option>
+        <option value="3">魚鱗流向(未有循環)</option>
       </select>
       <select id="baseLayer">
         <option value="0">OpenStreeMap</option>
@@ -118,6 +119,7 @@
 	loadGeoJSON('data/資源點分布.json','EPSG:3857'),
       ];
       var geojsonLayers2=[
+	loadGeoJSON('data/空.json','EPSG:3857'),      
 	loadGeoJSON('data/生產端銷售.json','EPSG:3857'),
 	loadGeoJSON('data/魚鱗流向(現有循環).json','EPSG:3857'),
 	loadGeoJSON('data/魚鱗流向(未有循環).json','EPSG:3857'),
