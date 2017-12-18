@@ -84,9 +84,18 @@
 			if(typeof baseLayers[i] != "undefined")
 				baseLayers[i].setVisible(idx==i);
       }
+      function setBaseLayer(idx){
+        for(i in geojsonLayers2)
+			if(typeof baseLayers[i] != "undefined")
+				baseLayers[i].setVisible(idx==i);
+      }
       function setGeoJsonLayer(idx){
         for(i in geojsonLayers)
           geojsonLayers[i].setVisible(idx==i);
+      }
+      function setGeoJsonLayer(idx){
+        for(i in geojsonLayers2)
+          geojsonLayers2[i].setVisible(idx==i);
       }
       var baseLayers=[
         new ol.layer.Tile({ //OpenStreeMap
@@ -112,9 +121,6 @@
 	loadGeoJSON('data/加工廠點分布.json','EPSG:3857'),
 	loadGeoJSON('data/生技公司點分布.json','EPSG:3857'),
 	loadGeoJSON('data/資源點分布.json','EPSG:3857'),
-	loadGeoJSON('data/生產端銷售.json','EPSG:3857'),
-	loadGeoJSON('data/魚鱗流向(現有循環).json','EPSG:3857'),
-	loadGeoJSON('data/魚鱗流向(未有循環).json','EPSG:3857'),
       ];
       var geojsonLayers2=[
 	loadGeoJSON('data/生產端銷售.json','EPSG:3857'),
@@ -187,6 +193,25 @@
         setGeoJsonLayer(0);
         $('#geojsonLayer').change(function(i){
           setGeoJsonLayer($(this).val());
+        });
+        map.on('pointermove', function(evt) {
+          showInfo(map.getEventPixel(evt.originalEvent));
+        });
+        map.on('singleclick', function(evt) {
+          showInfo(map.getEventPixel(evt.originalEvent));
+        });
+      });
+      $(function(){
+        for(i in geojsonLayers2)
+          map.addLayer(geojsonLayers2[i]);
+          
+        setBaseLayer(0);
+        $('#baseLayer').change(function(i){
+          setBaseLayer($(this).val());
+        });
+        setGeoJsonLayer2(0);
+        $('#geojsonLayer').change(function(i){
+          setGeoJsonLayer2($(this).val());
         });
         map.on('pointermove', function(evt) {
           showInfo(map.getEventPixel(evt.originalEvent));
