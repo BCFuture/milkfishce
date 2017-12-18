@@ -47,16 +47,16 @@
   <center><font face="微軟正黑體" size="72">七股虱目魚循環地圖</font></center>
     <div id="map"></div>
     <div id="controle-plane">
-	  <select id="geojsonLayer">
+      <select id="geojsonLayer">
         <option value="0">七股區</option>
         <option value="1">生產端分布</option>
         <option value="2">中盤商分布</option>
         <option value="3">加工廠分布</option>
         <option value="4">生技公司分布</option>
-		<option value="5">資源點分布</option>
+	<option value="5">資源點分布</option>
       </select>
-	  	<select id="geojsonLayer">
-		<option value="6">生產端銷售</option>
+      <select id="geojsonLayer2">
+	<option value="6">生產端銷售</option>
         <option value="7">魚鱗流向(現有循環)</option>
         <option value="8">魚鱗流向(未有循環)</option>
       </select>
@@ -108,13 +108,18 @@
       var geojsonLayers=[
         loadGeoJSON('data/分區.json','EPSG:3857'),
         loadGeoJSON('data/漁產點分布.json','EPSG:3857'),
-		loadGeoJSON('data/魚販點分布.json','EPSG:3857'),
-		loadGeoJSON('data/加工廠點分布.json','EPSG:3857'),
-		loadGeoJSON('data/生技公司點分布.json','EPSG:3857'),
-		loadGeoJSON('data/資源點分布.json','EPSG:3857'),
-		loadGeoJSON('data/生產端銷售.json','EPSG:3857'),
-		loadGeoJSON('data/魚鱗流向(現有循環).json','EPSG:3857'),
-		loadGeoJSON('data/魚鱗流向(未有循環).json','EPSG:3857'),
+	loadGeoJSON('data/魚販點分布.json','EPSG:3857'),
+	loadGeoJSON('data/加工廠點分布.json','EPSG:3857'),
+	loadGeoJSON('data/生技公司點分布.json','EPSG:3857'),
+	loadGeoJSON('data/資源點分布.json','EPSG:3857'),
+	loadGeoJSON('data/生產端銷售.json','EPSG:3857'),
+	loadGeoJSON('data/魚鱗流向(現有循環).json','EPSG:3857'),
+	loadGeoJSON('data/魚鱗流向(未有循環).json','EPSG:3857'),
+      ];
+      var geojsonLayers2=[
+	loadGeoJSON('data/生產端銷售.json','EPSG:3857'),
+	loadGeoJSON('data/魚鱗流向(現有循環).json','EPSG:3857'),
+	loadGeoJSON('data/魚鱗流向(未有循環).json','EPSG:3857'),
       ];
       var info=$("<div id='info' />");
       $(info).appendTo($('#map'));
