@@ -88,6 +88,10 @@
         for(i in geojsonLayers)
           geojsonLayers[i].setVisible(idx==i);
       }
+      function setGeoJsonLayer2(idx){
+        for(i in geojsonLayers2)
+          geojsonLayers2[i].setVisible(idx==i);
+      }
       var baseLayers=[
         new ol.layer.Tile({ //OpenStreeMap
           visible:false,
