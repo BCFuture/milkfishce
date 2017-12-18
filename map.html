@@ -192,6 +192,25 @@
           showInfo(map.getEventPixel(evt.originalEvent));
         });
       });
+      $(function(){
+        for(i in geojsonLayers2)
+          map.addLayer(geojsonLayers2[i]);
+          
+        setBaseLayer(0);
+        $('#baseLayer').change(function(i){
+          setBaseLayer($(this).val());
+        });
+        setGeoJsonLayer2(0);
+        $('#geojsonLayer2').change(function(i){
+          setGeoJsonLayer2($(this).val());
+        });
+        map.on('pointermove', function(evt) {
+          showInfo(map.getEventPixel(evt.originalEvent));
+        });
+        map.on('singleclick', function(evt) {
+          showInfo(map.getEventPixel(evt.originalEvent));
+        });
+      });
     </script>
   </body>
 </html>
