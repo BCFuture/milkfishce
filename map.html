@@ -44,7 +44,7 @@
 	<title>七股虱目魚循環地圖</title>
   </head>
   <body>
-  <font face="微軟正黑體" size="72">七股虱目魚循環地圖</font>
+    <font face="微軟正黑體" size="72">七股虱目魚循環地圖</font>
     <div id="map"></div>
     <div id="controle-plane">
       <select id="geojsonLayer">
@@ -148,7 +148,7 @@
           left: pixel[0] + 'px',
           top: (pixel[1] - 15) + 'px',
           position: 'absolute',
-          'z-index': 200
+          'z-index': 500
         });
         var feature = map.forEachFeatureAtPixel(pixel,function(feature, layer) {
           return feature;
