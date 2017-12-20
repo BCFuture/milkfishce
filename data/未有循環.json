@@ -1,0 +1,5 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.17919117070923,23.17169798460448]},"properties":{"id":1,"name":"周先生家庭代工廠--每年4萬斤魚鱗未循環利用","text":"每年4萬斤魚鱗未循環利用"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.12036549818197,23.044996536084213]},"properties":{"id":2,"name":"大豐虱目魚批發商--每年150萬斤魚鱗未循環利用","text":"每年150萬斤魚鱗未循環利用"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[120.30363009336307,22.57891620759895]},"properties":{"id":3,"name":"大豐虱目魚批發商--每年150萬斤魚鱗未循環利用","text":"每年150萬斤魚鱗未循環利用"}}
+]}
